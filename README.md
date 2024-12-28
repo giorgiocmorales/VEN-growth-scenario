@@ -7,7 +7,7 @@ Basic instructors for the simulator:
 2. Select yearly compounding growth rate to calculate how long it takes for the proyected gdp to reach the target.
 3. Restrict the reference period to see how (un)common the selected growth rate is when compared to historic yearly gdp growth. 
 
-Realease V.1 (Spanish)
+# Realease V.1 (Spanish)
 
 For both standard and per capta (ppc) versions there are the following pages and modules:
 
